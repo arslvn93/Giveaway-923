@@ -1,103 +1,107 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win Moncton Wildcats Flex 10 Tickets, $450 Value",
+    "navBrandLogoText": "Double Edge Advantage",
+    "privacyPolicyLink": "https://doubleedgeadvantagerealty.ca/privacy.html"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>2 Flex 10 Ticket Packs</span> for the Moncton Wildcats!",
+    "heroSubheadline": "Pick your games. Bring your hockey buddy. Local rink nights on us. $450 value. Limited time entry.",
+    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/5rc03g6z2srmy0cz2h18n8j4jg.jpg",
+    "promotionDates": "Enter July 10 to August 27, 2026. Winner announced August 28, 2026.",
+    "endDate": "2026-08-28T02:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "Moncton Wildcats Ticket Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "successModalMainMessage": "Your entry for the <strong>Moncton Wildcats Ticket Giveaway</strong> is in! Winner will be announced August 28, 2026 and notified by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on August 28, 2026, and please check spam too."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
-      "#FFFFFF"
+      "#111111",
+      "#FFFFFF",
+      "#C9A227"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
+    "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the Moncton Wildcats Ticket Giveaway has been submitted. We will draw the winner on August 28, 2026 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on August 28. Check spam too so you don’t miss our message."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/63v32dt6y9rmy0cz2h1vse703c.jpg",
+        "alt": "Fans cheering at a Moncton Wildcats home game at the Avenir Centre"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/4274tkpez9rmy0cz2h1vn060j0.jpg",
+        "alt": "Hockey tickets and a game schedule on a table"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/q03c1rkr6srmt0cz2h29g3mv3g.jpg",
+        "alt": "Two friends smiling in the stands at a hockey game"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/8p6pjs8cnxrmr0cz2h2stysjk4.jpg",
+        "alt": "Close up of ice rink boards and team colors during warm up"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-ticket-alt",
+        "text": "Two Flex 10 Adult Ticket Packs for Moncton Wildcats home games"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-calendar-check",
+        "text": "Pick your games to match your schedule, subject to availability"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-users",
+        "text": "Bring a friend or family for a great night out"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-home",
+        "text": "Cheer at the Avenir Centre in downtown Moncton"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-gift",
+        "text": "Total prize value of $450"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Moncton Wildcats Flex 10 Fan Pack",
+    "value": "$450 Value",
+    "description": "Picture this, the goal horn. The crowd roars. You and your favourite fan cheer loud and proud. With two Flex 10 Adult Ticket Packs, you choose the home games that fit your life. Go together for big rivalry nights. Or spread the fun across the season. It is simple, local, and a blast.",
+    "limitedTimeOfferText": "Limited Local Giveaway, Ends August 27!",
+    "ctaButtonText": "I Want These Tickets!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-instagram",
-        "title": "Follow Instagram Account",
-        "description": "Follow our Instagram account to stay connected and get updates on the giveaway."
+        "icon": "fas fa-edit",
+        "title": "Follow me on Instagram",
+        "description": "Follow me @doubleedgeadvantagerealty"
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us a bit about your home plans."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered!",
+        "description": "We pick a random winner on August 28. Watch your email."
       }
     ],
     "highlights": [
@@ -120,158 +124,161 @@ const config = {
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "You must be 18+ and live in New Brunswick or be able to attend games in Moncton."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "What exactly is the prize?",
+        "a": "Two Flex 10 Adult Ticket Packs for Moncton Wildcats home games. Game choice depends on availability and Flex 10 rules."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "When does it end?",
+        "a": "Entries close August 27, 2026 at 11:59 PM AT. We draw on August 28, 2026."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "How do I know if I win?",
+        "a": "We will contact you by email. Check your inbox and spam on August 28."
+      },
+      {
+        "q": "Do I need to buy anything?",
+        "a": "No. No purchase needed. One entry per person."
+      },
+      {
+        "q": "Can I choose any game?",
+        "a": "You choose from eligible home games, based on availability and the team’s Flex 10 redemption rules."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double check your email for typos, make sure you can be reached",
+      "Think of who you would bring to a Wildcats game",
+      "Tell friends and family in Greater Moncton to enter too",
+      "Follow Double Edge Advantage on Instagram or Facebook for updates"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a random number tool to pick the winner. Every valid entry has the same chance. No tricks. No favorites."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We will email the winner on August 28, 2026. Please reply within 48 hours so we can coordinate your Flex 10 packs."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-923.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-923.netlify.app%2Fadmin&text=Win%20Moncton%20Wildcats%20Flex%2010%20Tickets%2C%20%24450%20Value"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for a chance to win this local hockey night prize!",
+    "entryCountText": "Local fans are entering now. Don’t miss out!",
+    "socialSharePrompt": "Share with a Wildcats fan you’d bring to the game:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1750445840887_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1750445840887_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
+        },
+        {
+          "value": "Staying put",
+          "text": "Staying put"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1750445840887_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
+        },
+        {
+          "value": "No plans",
+          "text": "No plans"
         }
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/doubleedgeadvantage/",
+      "instagram": "https://www.instagram.com/doubleedgeadvantagerealty"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "David Sabados",
+      "title": "REALTOR",
+      "phone": "+1 (506) 260-5030",
+      "email": "david@davidsabados.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by David Sabados at Keller Williams Capital Realty and is not affiliated with the Moncton Wildcats, Instagram, or Facebook. No purchase necessary. New Brunswick residents 18+ only. One entry per person. Entries close August 27, 2026 at 11:59 PM AT. Winner selected at random on August 28, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/double-edge-advantage/settings/1782132380611-Logo_27.png",
+    "secondaryLogoUrl": "https://www.kwnb.ca/uploads/logo_footer.52.png",
+    "secondaryLogoAlt": "Keller Williams Capital Realty Logo",
+    "organizerName": "Double Edge Advantage",
+    "brokerageName": "Keller Williams Capital Realty",
+    "address": "150 Edmonton Ave, 4B, Moncton, NB, E1C 3B9, Canada",
+    "email": "david@davidsabados.ca",
+    "phone": "+1 (506) 260-5030",
+    "copyrightOwner": "David Sabados"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-923",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-923",
+    "netlifyUrl": "http://Giveaway-923.netlify.app",
+    "netlifyId": "1284226218",
+    "tag": "Moncton Wildcats Giveaway"
   }
 };
