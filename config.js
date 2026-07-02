@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the Moncton Wildcats Ticket Giveaway has been submitted. We will draw the winner on August 28, 2026 and contact them by email. Good luck!",
-    "socialPromptText": "Watch your inbox on August 28. Check spam too so you don’t miss our message."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -54,7 +49,7 @@ const config = {
         "alt": "Two friends smiling in the stands at a hockey game"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/8p6pjs8cnxrmr0cz2h2stysjk4.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-MonctonWildcatshockeyarena.jpg",
         "alt": "Close up of ice rink boards and team colors during warm up"
       }
     ],
@@ -95,7 +90,7 @@ const config = {
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer 4 Quick Questions",
+        "title": "Answer 3 Quick Questions",
         "description": "Tell us a bit about your home plans."
       },
       {
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -158,6 +151,8 @@ const config = {
       "Tell friends and family in Greater Moncton to enter too",
       "Follow Double Edge Advantage on Instagram or Facebook for updates"
     ],
+    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random number tool to pick the winner. Every valid entry has the same chance. No tricks. No favorites."
@@ -178,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1783007386426_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -200,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1783007386426_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1783007386427_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -252,6 +247,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the Moncton Wildcats Ticket Giveaway has been submitted. We will draw the winner on August 28, 2026 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on August 28. Check spam too so you don’t miss our message."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/doubleedgeadvantage/",
