@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1783113142520_0",
+      "id": "q_auto_1783113163978_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113142520_1",
+      "id": "q_auto_1783113163978_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113142520_2",
+      "id": "q_auto_1783113163978_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -270,7 +270,7 @@ const config = {
       "phone": "+1 (506) 260-5030",
       "email": "david@davidsabados.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by David Sabados at Keller Williams Capital Realty and is not affiliated with the Moncton Wildcats, Instagram, or Facebook. No purchase necessary. New Brunswick residents 18+ only. One entry per person. Entries close August 27, 2026 at 11:59 PM AT. Winner selected at random on August 28, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by David Sabados at Keller Williams Capital Realty and is not affiliated with the Moncton Wildcats, Instagram, or Facebook. No purchase necessary. New Brunswick residents 18+ only. One entry per person. Entries close August 9, 2026 at 11:59 PM AT. Winner selected at random on August 10, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/double-edge-advantage/settings/1782132380611-Logo_27.png",
     "secondaryLogoUrl": "https://www.kwnb.ca/uploads/logo_footer.52.png",
     "secondaryLogoAlt": "Keller Williams Capital Realty Logo",
