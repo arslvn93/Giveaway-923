@@ -96,7 +96,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You’re Entered!",
-        "description": "We pick a random winner on August 28. Watch your email."
+        "description": "We pick a random winner on August 10. Watch your email."
       }
     ],
     "highlights": [
@@ -130,11 +130,11 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close August 27, 2026 at 11:59 PM AT. We draw on August 28, 2026."
+        "a": "Entries close August 9, 2026 at 11:59 PM AT. We draw on August 10, 2026."
       },
       {
         "q": "How do I know if I win?",
-        "a": "We will contact you by email. Check your inbox and spam on August 28."
+        "a": "We will contact you by email. Check your inbox and spam on August 10."
       },
       {
         "q": "Do I need to buy anything?",
@@ -159,7 +159,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Winner Notification",
-      "text": "We will email the winner on August 28, 2026. Please reply within 48 hours so we can coordinate your Flex 10 packs."
+      "text": "We will email the winner on August 10, 2026. Please reply within 48 hours so we can coordinate your Flex 10 packs."
     }
   },
   "entryForm": {
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1783113069005_0",
+      "id": "q_auto_1783113120768_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113069006_1",
+      "id": "q_auto_1783113120768_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113069006_2",
+      "id": "q_auto_1783113120768_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
