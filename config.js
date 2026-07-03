@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1783113163978_0",
+      "id": "q_auto_1783113181757_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113163978_1",
+      "id": "q_auto_1783113181757_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113163978_2",
+      "id": "q_auto_1783113181757_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -256,8 +256,8 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the Moncton Wildcats Ticket Giveaway has been submitted. We will draw the winner on August 28, 2026 and contact them by email. Good luck!",
-    "socialPromptText": "Watch your inbox on August 28. Check spam too so you don’t miss our message."
+    "mainMessage": "Your entry for the Moncton Wildcats Ticket Giveaway has been submitted. We will draw the winner on August 10, 2026 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on August 10. Check spam too so you don’t miss our message."
   },
   "footerContact": {
     "social": {
