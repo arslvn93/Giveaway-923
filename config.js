@@ -8,8 +8,8 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>2 Flex 10 Ticket Packs</span> for the Moncton Wildcats!",
     "heroSubheadline": "Pick your games. Bring your hockey buddy. Local rink nights on us. $450 value. Limited time entry.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/5rc03g6z2srmy0cz2h18n8j4jg.jpg",
-    "promotionDates": "Enter July 10 to August 27, 2026. Winner announced August 28, 2026.",
-    "endDate": "2026-08-28T02:59:00.000Z",
+    "promotionDates": "Enter July 10 to August 9, 2026. Winner announced August 10, 2026.",
+    "endDate": "2026-08-10T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Moncton Wildcats Ticket Giveaway",
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1783008535839_0",
+      "id": "q_auto_1783113054567_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783008535839_1",
+      "id": "q_auto_1783113054567_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783008535839_2",
+      "id": "q_auto_1783113054567_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
