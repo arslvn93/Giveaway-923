@@ -78,7 +78,7 @@ const config = {
     "name": "Moncton Wildcats Flex 10 Fan Pack",
     "value": "$450 Value",
     "description": "Picture this, the goal horn. The crowd roars. You and your favourite fan cheer loud and proud. With two Flex 10 Adult Ticket Packs, you choose the home games that fit your life. Go together for big rivalry nights. Or spread the fun across the season. It is simple, local, and a blast.",
-    "limitedTimeOfferText": "Limited Local Giveaway, Ends August 27!",
+    "limitedTimeOfferText": "Limited Local Giveaway, Ends August 9!",
     "ctaButtonText": "I Want These Tickets!"
   },
   "howToEnter": {
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1783113054567_0",
+      "id": "q_auto_1783113069005_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113054567_1",
+      "id": "q_auto_1783113069006_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113054567_2",
+      "id": "q_auto_1783113069006_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
