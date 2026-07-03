@@ -14,8 +14,8 @@ const config = {
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Moncton Wildcats Ticket Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Moncton Wildcats Ticket Giveaway</strong> is in! Winner will be announced August 28, 2026 and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email on August 28, 2026, and please check spam too."
+    "successModalMainMessage": "Your entry for the <strong>Moncton Wildcats Ticket Giveaway</strong> is in! Winner will be announced August 10, 2026 and notified by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on August 10, 2026, and please check spam too."
   },
   "settings": {
     "confettiColors": [
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1783113120768_0",
+      "id": "q_auto_1783113142520_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113120768_1",
+      "id": "q_auto_1783113142520_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1783113120768_2",
+      "id": "q_auto_1783113142520_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
